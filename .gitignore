@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# Vite output
+dist/
+
+# env files
+.env
+.env.local
+
+# system files
+.DS_Store
+
+# IDE
+.vscode/
